@@ -9,7 +9,6 @@ I tested this work the built in mac webcam and an external one and both work. Fr
 ### Install pm2
 ```
 yarn global add pm2
-
 ```
 
 ### Start app in the background
