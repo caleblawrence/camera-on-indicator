@@ -6,6 +6,12 @@ It looks for the camera on / off events in the mac log and uses the Philips Hue 
 
 I tested this work the built in mac webcam and an external one and both work. From what I can see the process uses very little memory and you can start it in the background with pm2.
 
+Check out the demo here: 
+https://www.youtube.com/watch?v=9Jm9hPuIvmo
+
+Check out an overview video here:
+https://www.youtube.com/watch?v=3o04y7HQaj4&t=9s
+
 ### Install pm2
 ```
 yarn global add pm2
