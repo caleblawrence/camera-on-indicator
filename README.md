@@ -30,6 +30,9 @@ https://pm2.keymetrics.io/docs/usage/startup/
 pm2 status
 ```
 
+### Note on performance
+At first I thought this solution would be pretty bad in terms of performance because it's doing string comparison on a log but is seems to only use about `34.1mb` of memory and 0% cpu so it might be ok actually.
+
 ### Tutorial I followed to figure out the Philips Hue api
 https://developers.meethue.com/develop/get-started-2/
 
