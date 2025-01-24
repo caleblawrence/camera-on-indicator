@@ -1,6 +1,6 @@
-# camera-on-indicator
+# Webcamera use indicator
 
-Kai wanted to know if my camera was on (for work meetings or other random things) without having to walk around and look for the light on my camera so I setup this process up.
+My wife wanted to know if my web camera was on without having to walk around and look for the light on my camera so I setup this process up.
 
 It looks for the camera on / off events in the mac log and uses the Philips Hue API to toggle a light bulb when the camera is in use.
 
